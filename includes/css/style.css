@@ -1,0 +1,19 @@
+body {
+	background-color: #082d54e6;
+}
+.center-div {
+	position: absolute;
+	width: 900px;
+	height: 200px;
+	top: calc(50% - 100px); /* 50% - it's height */
+	left: calc(50% - 450px); /* 50% - it's width */
+	background-color: #a0c9ce;
+    padding-top: 65px;
+    border-radius: 30px;
+}
+
+.center-div h1{
+	color: #082d54e6;
+	font-size: 3.5rem;
+
+}
